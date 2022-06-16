@@ -28,3 +28,5 @@ The code requires several libraries to be installed, including:
 * wave
 * sklearn
 * mpl_toolkits
+
+`Test inline code`
