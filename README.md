@@ -65,4 +65,10 @@ The two coding-files above are unnecessary to reproduce as they take much run-ti
   
 The two coding-files above requires action by the user in order to run the machine learning models several times on different input-datasets. For the KMeans.csv-file the user needs to define which three audio features the method shall use as input each time. The section of the code that needs editing/action by the user is marked with blue comments.
   
+The three other files does not produce results for the thesis but has been used to analyze and plot audio features, and display sound waves. 
+  
+5. Feature_Extraction.ipynb
+6. Feature_MFCC.ipynb
+7. Filters.ipynb
+  
   
