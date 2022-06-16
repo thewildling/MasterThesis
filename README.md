@@ -55,8 +55,14 @@ Then you can scroll down until you find the project-folder that you downloaded.
 
 In order for all code-files to work, they need to be run in the following order.
 
-1. Creating_CSV.ipynb (You can skip running this file as its whole purpose is to create *tube_files.csv* and *vent_files.csv* which is already created for you).
-2. Adding_Features.ipynb (You can also skip this as the files *new_features_tube.csv* and *new_features_tube.csv* has already been created for you)
+1. Creating_CSV.ipynb (Creates *tube_files.csv* and *vent_files.csv*)
+2. Adding_Features.ipynb (Creates *new_features_tube.csv* and *new_features_tube.csv*)
   
-The two coding-files above are unnecessary to reproduce as they take much run-time and their output is .csv-files that is already included in the folder named *CSV-files*.
+The two coding-files above are unnecessary to reproduce as they take much run-time and their output is .csv-files that is already included in the folder named *CSV-files*. You can therefor skip running these and jump right to the next code-files.
+  
+3. KMeans.ipynb
+4. AutoML.ipynb
+  
+The two coding-files above requires action by the user in order to run the machine learning models several times on different input-datasets. For the KMeans.csv-file the user needs to define which three audio features the method shall use as input each time. The section of the code that needs editing/action by the user is marked with blue comments.
+  
   
