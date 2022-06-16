@@ -71,4 +71,8 @@ The three other files does not produce results for the thesis but has been used 
 6. Feature_MFCC.ipynb
 7. Filters.ipynb
   
+## Contact
   
+Marianne Pettersen
+LinkedIn: [Link](https://www.linkedin.com/in/mpett/)
+Email: [Link] mariannepettersen123@gmail.com
