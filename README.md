@@ -38,7 +38,7 @@ $ conda install <library_name>
 ```
 
 Unless you need the libraries in other projects too, it could be beneficial to create a virtual environment and install the libraries there. 
-To create a new virtual environment follow the tutorial in this link: [Link]https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/
+To create a new virtual environment follow the tutorial in this link: https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/
 Each time you want to open the project in for instance Jupyter Notebook, you open the Anaconda prompt and type:
 
 ```
@@ -75,6 +75,6 @@ The three other files does not produce results for the thesis but has been used 
   
 **Marianne Pettersen**
   
-**LinkedIn**: [Link]https://www.linkedin.com/in/mpett/
+**LinkedIn**: https://www.linkedin.com/in/mpett/
   
 **Email**: [Link]mariannepettersen123@gmail.com
