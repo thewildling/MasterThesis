@@ -73,6 +73,8 @@ The three other files does not produce results for the thesis but has been used 
   
 ## Contact
   
-Marianne Pettersen
+**Marianne Pettersen**
+  
 LinkedIn: [Link](https://www.linkedin.com/in/mpett/)
+  
 Email: [Link] mariannepettersen123@gmail.com
