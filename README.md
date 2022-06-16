@@ -1,5 +1,5 @@
-# MasterThesis
-Programming project related to a master thesis from spring 2022. The objective of the project was to develop and test multiple machine learning method for the task of classifying gas leakages from input in the form of audio signals. Three methods have been tested out, including *Clustering, Neural Networks* and *Gradient Boosting*.
+# Master Thesis Project
+Programming project related to a master thesis from spring 2022 called *Machine learning based Acoustic Anomaly Detection of Gas Leakages in Industrial Environments*. The objective of the project was to develop and test multiple machine learning method for the task of classifying gas leakages from input in the form of audio signals. Three methods have been tested out, including *Clustering, Neural Networks* and *Gradient Boosting*.
 
 
 ## Getting Started
