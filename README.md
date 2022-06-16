@@ -29,4 +29,6 @@ The code requires several libraries to be installed, including:
 * sklearn
 * mpl_toolkits
 
-`Test inline code`
+```
+$ npm install copy-text-to-clipboard
+```
