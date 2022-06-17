@@ -57,7 +57,7 @@ Then you can scroll down until you find the project-folder that you downloaded.
 In order for all code-files to work, they need to be run in the following order.
 
 1. Creating_CSV.ipynb (Creates *tube_files.csv* and *vent_files.csv*)
-2. Adding_Features.ipynb (Creates *new_features_tube.csv* and *new_features_tube.csv*)
+2. Adding_Features.ipynb (Creates *new_features_tube.csv* and *new_features_vent.csv*)
   
 The two coding-files above are unnecessary to reproduce as they take much run-time and their output is .csv-files that is already included in the folder named *CSV-files*. You can therefor skip running these and jump right to the next code-files.
   
