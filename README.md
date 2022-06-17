@@ -43,7 +43,7 @@ To create a new virtual environment follow the tutorial in this link: https://ww
 Each time you want to open the project in for instance Jupyter Notebook, you open the Anaconda prompt and type:
 
 ```
-$ conda activate <environmentname>
+$ conda activate <environment_name>
 ```
 The <environmentname> is the name you chose during the prior creation (following the tutorial).
 Then you can type the following and open your Notebook which will pop up in a internet window. 
