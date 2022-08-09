@@ -45,7 +45,7 @@ Each time you want to open the project in for instance Jupyter Notebook, you ope
 ```
 $ conda activate <environment_name>
 ```
-The environmentname is the name you chose during the prior creation (following the tutorial).
+The environment name is the name you chose during the prior creation (following the tutorial).
 Then you can type the following and open your Notebook which will pop up in a internet window. 
   
 ```
